@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.2.1](https://github.com/tilowestermann/release-it-conventional-changelog/compare/1.2.0...1.2.1) (2022-09-12)
+
+
+### 🐛 Bug Fixes
+
+* new feature ([ff8e8a0](https://github.com/tilowestermann/release-it-conventional-changelog/commit/ff8e8a0c662bc5b9a964fe423ca584d7f9e0f92f))
+
 ## [1.2.0](https://github.com/tilowestermann/release-it-conventional-changelog/compare/1.1.1...1.2.0) (2022-09-12)
 
 
