@@ -1,3 +1,3 @@
 # release it conventional changelog
 
-## new feature
+## new feature!
