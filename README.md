@@ -1,1 +1,1 @@
-# release-it-conventional-changelog
+# release it conventional changelog
